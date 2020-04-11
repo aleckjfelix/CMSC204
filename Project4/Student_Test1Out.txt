@@ -1,0 +1,5 @@
+ lec: 1, 2
+cool: 2
+hello: 1
+is'nt: 2
+name: 1

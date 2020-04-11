@@ -1,0 +1,8 @@
+alec: 1
+cool: 2, 3
+hello: 1, 2, 3
+hey: 3
+i'm: 2
+name: 1
+there: 3
+very: 2
